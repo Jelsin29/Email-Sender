@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/sanch/IdeaProjects/Vize1/src</OriginalElement>
+  <nodes>
+    <node x="244.0" y="9.0">ElitUyeEkle</node>
+    <node x="34.5" y="136.0">Main</node>
+    <node x="42.0" y="9.0">MailleriGonder</node>
+    <node x="-170.0" y="9.0">GenelUyeEkle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Main" target="MailleriGonder" relationship="CREATE">
+      <point x="-92.0" y="15.0" />
+      <point x="117.5" y="211.5" />
+      <point x="-0.0" y="38.5" />
+    </edge>
+    <edge source="Main" target="ElitUyeEkle" relationship="CREATE">
+      <point x="92.0" y="-0.0" />
+      <point x="306.5" y="196.5" />
+      <point x="-0.0" y="38.5" />
+    </edge>
+    <edge source="Main" target="GenelUyeEkle" relationship="CREATE">
+      <point x="-92.0" y="-0.0" />
+      <point x="-99.0" y="196.5" />
+      <point x="-0.0" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="-68.00000000000011" y="109.00000000000001" />
+  <SelectedNodes>
+    <node>GenelUyeEkle</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
